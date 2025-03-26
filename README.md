@@ -21,7 +21,7 @@ Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the
 <br> [<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DeepakShanmugam-786d) <br/>
 
 
-### Key Skills in
+### Key Skills in <div id="badges" align = "left">
 <div id="badges" align = "left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
