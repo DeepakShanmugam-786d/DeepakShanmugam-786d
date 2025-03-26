@@ -11,7 +11,12 @@ Data Aspiring
 - 📩 Get in touch: 
     <a href="mailto:deepakshanmugam360@gmail.com">deepakshanmugam360@gmail.com</a>
 
-- Social Presence
+-<h2 >🔗Get in touch :</h2>         
+
+Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
+<div id="badges" align = "center">
+   <a href="https://github.com/DeepakShanmugam-786d">
+       
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-shanmugam-786d/) <br/>
 <br> [<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DeepakShanmugam-786d) <br/>
 
