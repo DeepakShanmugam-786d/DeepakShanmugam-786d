@@ -8,6 +8,9 @@ Data Aspiring
 - Social Presence
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-shanmugam-786d/) <br/>
 
+   <br>[<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/DeepakShanmugam-786d/) <br/>
+  </a>
+
 ### Key Skills in
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
