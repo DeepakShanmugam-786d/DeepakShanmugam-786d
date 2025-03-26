@@ -11,7 +11,7 @@ Data Aspiring
 - 📩 Get in touch: 
     <a href="mailto:deepakshanmugam360@gmail.com">deepakshanmugam360@gmail.com</a>
 
--<h2 >🔗Get in touch :</h2>         
+<h2 >🔗Get in touch :</h2>         
 Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 
        
