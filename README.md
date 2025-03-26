@@ -2,9 +2,15 @@
 
 Data Aspiring 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-- 🔭 Here's my [portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)   
-- 🌱 I’m currently learning and Upskilling in Data field
+- 🔭 Here's my [portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)
 - Previously worked with LMW [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">]
+- 🌱 I’m currently learning and Upskilling in Data field
+- 🌍 I aim to apply technology to solve complex real-world problems and create ethical AI solutions.
+- 💬 Let's talk about AI, Blockchain, Python, and web development.
+- ⚡ Fun Fact: I’m also passionate about robotics and automation.
+- 📩 Get in touch: 
+    <a href="mailto:deepakshanmugam360@gmail.com">deepakshanmugam360@gmail.com</a>
+
 - Social Presence
 <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-shanmugam-786d/) <br/>
 <br> [<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DeepakShanmugam-786d) <br/>
