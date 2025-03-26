@@ -22,6 +22,7 @@ Hello, fellow mates!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 
 ### Key Skills in
+<div id="badges" align = "left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
 
