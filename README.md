@@ -14,3 +14,12 @@ Data Aspiring
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepakshanmugamk?theme=dark&font=Koh%20Santepheap&ext=heatmap)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepakShanmugam-786d&bg_color=39d5bb&color=3b129b&line=9e4c98&point=ee1111&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+#### 🔍 Profile views :
+![Visitor Count](https://profile-counter.glitch.me/{DeepakShanmugam-786d}/count.svg)
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
+    </h1>
+</div>
