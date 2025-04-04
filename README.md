@@ -1,6 +1,9 @@
-## Hi there 👋 It's me Deepak Shanmugam K
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Shanmugam!;" />
+</h1>
+</h1>
+<h3 align="center">An Aspiring Data Analyst from India</h3>
 
-Data Aspiring 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 - 🔭 Here's my [portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)
 - Previously worked with LMW [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">]
