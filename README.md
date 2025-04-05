@@ -44,13 +44,14 @@ Reach out to me on the following platforms:
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-5★-brightgreen?style=flat-square&logo=hackerrank" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-3★-yellow?style=flat-square&logo=hackerrank" alt="Problem Solving Badge"/>
-  <img src="https://img.shields.io/badge/Python-2★-lightgrey?style=flat-square&logo=hackerrank" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-2★-yellow?style=flat-square&logo=hackerrank" alt="Problem Solving Badge"/>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR0sY3GdG2pK1tC/giphy.gif" width="300" alt="HackerRank Analytics GIF"/>
 </p>
+
+
 ---
 ### 📊 LeetCode & GitHub Stats
 
