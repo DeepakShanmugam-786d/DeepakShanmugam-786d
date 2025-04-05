@@ -10,7 +10,7 @@
 - 💼 Previously worked with LMW <img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">  
 - 🌱 I’m currently learning and upskilling in the Data field  
 - 🌍 I aim to apply technology to solve complex real-world problems and create ethical AI solutions  
-- 💬 Let's talk about AI, Blockchain, Python, and Web Development  
+- 💬 Let's talk about AI, Python, and sql  
 - ⚡ Fun Fact: I’m also passionate about Robotics and Automation  
 - 📩 Get in touch: <a href="mailto:deepakshanmugam360@gmail.com">deepakshanmugam360@gmail.com</a>  
 
