@@ -5,14 +5,13 @@
 
 <h3 align="center">💼 An Aspiring Data Analyst from India 🇮🇳</h3>
 
-<!-- INTRODUCTION GIF -->
+<!-- PROFESSIONAL MALE TECH GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="370" height="290" alt="Data Analyst Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" height="290" alt="Data Analysis Gif">
 </p>
 
 ---
 
-<!-- ABOUT SECTION -->
 ### 👨‍💻 About Me
 
 - 🔭 Here's my **[Portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)**  
@@ -26,7 +25,6 @@
 
 ---
 
-<!-- SOCIAL LINKS -->
 ### 🔗 Connect with Me
 
 <p align="center">
@@ -40,7 +38,6 @@
 
 ---
 
-<!-- SKILLS SECTION -->
 ### ⚙️ Tools & Tech Stack
 
 <p align="center">
@@ -53,7 +50,6 @@
 
 ---
 
-<!-- LEETCODE & ACTIVITY GRAPH -->
 ### 📊 Stats & Contributions
 
 <p align="center">
@@ -66,7 +62,6 @@
 
 ---
 
-<!-- PROFILE VIEW COUNTER -->
 ### 🔍 Profile Views
 
 <p align="center">
@@ -74,6 +69,21 @@
 </p>
 
 ---
+### 🧠 HackerRank Achievements
+
+<p align="center">
+  <a href="https://www.hackerrank.com/deepakshanmugam360" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</p>
+
+<!-- Optionally, showcase some of your certificates or skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-5%20Stars-green?style=flat-square&logo=hackerrank" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-3%20Stars-yellow?style=flat-square&logo=hackerrank" alt="Problem Solving Badge"/>
+  <img src="https://img.shields.io/badge/Python-2%20Stars-lightgrey?style=flat-square&logo=hackerrank" alt="Python Badge"/>
+</p>
+
 
 <!-- MOTIVATIONAL TYPING ANIMATION -->
 <div align="center">
