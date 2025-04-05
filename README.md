@@ -5,7 +5,7 @@
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-- 🔭 Here's my [portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)
+- <br>🔭 Here's my [portfolio](https://codebasics.io/portfolio/Deepak-Shanmugam-K)<br/>
 - Previously worked with LMW [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">]
 - 🌱 I’m currently learning and Upskilling in Data field
 - 🌍 I aim to apply technology to solve complex real-world problems and create ethical AI solutions.
