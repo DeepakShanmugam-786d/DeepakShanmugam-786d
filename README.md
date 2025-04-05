@@ -48,7 +48,7 @@ Reach out to me on the following platforms:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR0sY3GdG2pK1tC/giphy.gif" width="300" alt="HackerRank Analytics GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Man coding GIF"/>
 </p>
 
 
