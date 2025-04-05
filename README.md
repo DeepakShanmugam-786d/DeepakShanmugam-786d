@@ -33,21 +33,24 @@ Reach out to me on the following platforms:
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
 
 ---
-### 🧠 HackerRank Achievements
+
+### 🧠 HackerRank Highlights
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/deepakshanmugam4" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </p>
 
-<!-- Optionally, showcase some of your certificates or skills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-5%20Stars-green?style=flat-square&logo=hackerrank" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-3%20Stars-yellow?style=flat-square&logo=hackerrank" alt="Problem Solving Badge"/>
-  <img src="https://img.shields.io/badge/Python-2%20Stars-lightgrey?style=flat-square&logo=hackerrank" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/SQL-5★-brightgreen?style=flat-square&logo=hackerrank" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-3★-yellow?style=flat-square&logo=hackerrank" alt="Problem Solving Badge"/>
+  <img src="https://img.shields.io/badge/Python-2★-lightgrey?style=flat-square&logo=hackerrank" alt="Python Badge"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR0sY3GdG2pK1tC/giphy.gif" width="300" alt="HackerRank Analytics GIF"/>
+</p>
 ---
 ### 📊 LeetCode & GitHub Stats
 
